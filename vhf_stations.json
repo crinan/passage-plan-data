@@ -93,6 +93,38 @@
       "latitude": 41.3546,
       "longitude": 2.1774,
       "tipusInformacio": "Meteo i Avisos"
+    },
+    {
+      "name": "Palma CCS",
+      "channels": [
+        "16",
+        "10",
+        "11"
+      ],
+      "schedules": {
+        "summer": [
+          "6:35",
+          "9:35",
+          "14:35",
+          "19:35"
+        ],
+        "winter": [
+          "7:35",
+          "10:35",
+          "15:35",
+          "20:35"
+        ],
+        "regular": []
+      },
+      "coverage": [
+        "Costa Mallorca",
+        "Cabrera",
+        "Menorca",
+        "Balears"
+      ],
+      "latitude": 39.6136,
+      "longitude": 3.0200,
+      "tipusInformacio": "Meteo"
     }
   ]
 }
