@@ -1,0 +1,134 @@
+{
+  "vhf_stations": [
+    {
+      "name": "Barcelona CCS",
+      "channels": [
+        "16",
+        "10"
+      ],
+      "scheduleType": "Estiu",
+      "schedules": [
+        "5:00",
+        "14:00",
+        "21:00",
+        "",
+        ""
+      ],
+      "coverage": [
+        "Costa Barcelona",
+        "Lleo",
+        "Menorca",
+        "Balears"
+      ],
+      "latitude": 41.3546,
+      "longitude": 2.1774,
+      "tipusInformacio": "Meteo"
+    },
+    {
+      "name": "Barcelona CCS",
+      "channels": [
+        "16",
+        "10"
+      ],
+      "scheduleType": "Hivern",
+      "schedules": [
+        "6:00",
+        "15:00",
+        "22:00",
+        "",
+        ""
+      ],
+      "coverage": [
+        "Costa Barcelona",
+        "Lleo",
+        "Menorca",
+        "Balears"
+      ],
+      "latitude": 41.3546,
+      "longitude": 2.1774,
+      "tipusInformacio": "Meteo"
+    },
+    {
+      "name": "Tarragona CCS",
+      "channels": [
+        "16",
+        "74"
+      ],
+      "scheduleType": "Estiu",
+      "schedules": [
+        "11:33",
+        "21:33",
+        "",
+        "",
+        ""
+      ],
+      "coverage": [
+        "Costa Tarragona",
+        "Balears"
+      ],
+      "latitude": 40.4567,
+      "longitude": 0.1137,
+      "tipusInformacio": "Meteo"
+    },
+    {
+      "name": "Tarragona CCS",
+      "channels": [
+        "16",
+        "74"
+      ],
+      "scheduleType": "Hivern",
+      "schedules": [
+        "12:33",
+        "22:33",
+        "",
+        "",
+        ""
+      ],
+      "coverage": [
+        "Costa Tarragona",
+        "Balears"
+      ],
+      "latitude": 40.4567,
+      "longitude": 0.1137,
+      "tipusInformacio": "Meteo"
+    },
+    {
+      "name": "Algeciras CCS",
+      "channels": [
+        "16",
+        "74"
+      ],
+      "scheduleType": "",
+      "schedules": [
+        "5:15",
+        "15:15",
+        "23:15",
+        "",
+        ""
+      ],
+      "coverage": [],
+      "latitude": 36.1332,
+      "longitude": -5.4501,
+      "tipusInformacio": "Meteo"
+    },
+    {
+      "name": "Barcelona Radio Costera",
+      "channels": [
+        "16",
+        "60"
+      ],
+      "scheduleType": "",
+      "schedules": [
+        "4:10",
+        "13:03",
+        "18:10",
+        "",
+        ""
+      ],
+      "coverage": [],
+      "latitude": 41.3546,
+      "longitude": 2.1774,
+      "tipusInformacio": "Meteo i Avisos"
+    }
+  ]
+}
