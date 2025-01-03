@@ -1,0 +1,90 @@
+[
+  {
+    "id": "PORTBOU",
+    "name": "Port de Portbou",
+    "coordinates": {
+      "latitude": 42.4266,
+      "longitude": 3.1664
+    },
+    "contact": {
+      "phone": "+34 972 390 234",
+      "vhf": "9",
+      "website": "https://ports.gencat.cat/portbou"
+    },
+    "specifications": {
+      "total_berths": 297,
+      "max_length": 15,
+      "max_draft": 3.5
+    }
+  },
+  {
+    "id": "COLERA",
+    "name": "Port de Colera",
+    "coordinates": {
+      "latitude": 42.4039,
+      "longitude": 3.1553
+    },
+    "contact": {
+      "phone": "+34 972 389 237",
+      "vhf": "9"
+    },
+    "specifications": {
+      "total_berths": 134,
+      "max_length": 12,
+      "max_draft": 2.5
+    }
+  },
+  {
+    "id": "LLANCA",
+    "name": "Port de Llançà",
+    "coordinates": {
+      "latitude": 42.3647,
+      "longitude": 3.1614
+    },
+    "contact": {
+      "phone": "+34 972 380 711",
+      "vhf": "9",
+      "website": "https://ports.gencat.cat/llanca"
+    },
+    "specifications": {
+      "total_berths": 498,
+      "max_length": 25,
+      "max_draft": 4.5
+    }
+  },
+  {
+    "id": "PORT_SELVA",
+    "name": "Port de la Selva",
+    "coordinates": {
+      "latitude": 42.3364,
+      "longitude": 3.2022
+    },
+    "contact": {
+      "phone": "+34 972 387 000",
+      "vhf": "9"
+    },
+    "specifications": {
+      "total_berths": 641,
+      "max_length": 25,
+      "max_draft": 4.5
+    }
+  },
+  {
+    "id": "ROSES",
+    "name": "Port de Roses",
+    "coordinates": {
+      "latitude": 42.2569,
+      "longitude": 3.1825
+    },
+    "contact": {
+      "phone": "+34 972 154 412",
+      "vhf": "9",
+      "website": "https://ports.gencat.cat/roses"
+    },
+    "specifications": {
+      "total_berths": 485,
+      "max_length": 45,
+      "max_draft": 5
+    }
+  }
+]
