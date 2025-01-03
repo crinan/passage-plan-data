@@ -542,5 +542,260 @@
       "latitud": 38.8400,
       "longitud": 0.1200
     }
+  },
+  {
+    "nom": "Port de Xàbia",
+    "mail": "info@portxabia.com",
+    "telefon": "+34 965 79 00 00",
+    "web": "https://www.portxabia.com",
+    "canal_vhf": "9",
+    "adreça": "Passeig Marítim, s/n, 03730 Xàbia, Alacant",
+    "eslora_maxima": "25m",
+    "calat_maxim": "3m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 379,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 38.7926,
+      "longitud": 0.1854
+    }
+  },
+  {
+    "nom": "Marina de Dénia",
+    "mail": "info@marinadedenia.com",
+    "telefon": "+34 966 42 11 55",
+    "web": "https://www.marinadedenia.com",
+    "canal_vhf": "9",
+    "adreça": "Dársena de Babor, s/n, 03700 Dénia, Alacant",
+    "eslora_maxima": "60m",
+    "calat_maxim": "6.5m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 409,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 38.8400,
+      "longitud": 0.1200
+    }
+  },
+  {
+    "nom": "Club Náutico Moraira",
+    "mail": "info@cnmoraira.com",
+    "telefon": "+34 965 74 44 19",
+    "web": "https://www.cnmoraira.com",
+    "canal_vhf": "9",
+    "adreça": "Calle Puerto, s/n, 03724 Moraira, Alacant",
+    "eslora_maxima": "30m",
+    "calat_maxim": "5m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 620,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 38.6881,
+      "longitud": 0.1333
+    }
+  },
+  {
+    "nom": "Marina Greenwich",
+    "mail": "info@marinagreenwich.com",
+    "telefon": "+34 965 84 23 00",
+    "web": "https://www.marinagreenwich.com",
+    "canal_vhf": "9",
+    "adreça": "Puerto Deportivo Luis Campomanes, s/n, 03590 Altea, Alacant",
+    "eslora_maxima": "50m",
+    "calat_maxim": "6m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 542,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 38.6100,
+      "longitud": -0.0500
+    }
+  },
+  {
+    "nom": "Club Náutico Altea",
+    "mail": "info@clubnauticoaltea.com",
+    "telefon": "+34 965 84 12 25",
+    "web": "https://www.clubnauticoaltea.com",
+    "canal_vhf": "9",
+    "adreça": "Calle Currica, s/n, 03590 Altea, Alacant",
+    "eslora_maxima": "30m",
+    "calat_maxim": "4m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 360,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 38.5983,
+      "longitud": -0.0500
+    }
+  },
+  {
+    "nom": "Puerto Deportivo de Campomanes",
+    "mail": "info@puertocampomanes.com",
+    "telefon": "+34 965 84 23 00",
+    "web": "https://www.puertocampomanes.com",
+    "canal_vhf": "9",
+    "adreça": "Puerto Deportivo Luis Campomanes, s/n, 03590 Altea, Alacant",
+    "eslora_maxima": "50m",
+    "calat_maxim": "6m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 542,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 38.6100,
+      "longitud": -0.0500
+    }
+  },
+  {
+    "nom": "Puerto Deportivo de Villajoyosa",
+    "mail": "info@puertovillajoyosa.com",
+    "telefon": "+34 965 89 00 00",
+    "web": "https://www.puertovillajoyosa.com",
+    "canal_vhf": "9",
+    "adreça": "Calle Puerto, s/n, 03570 Villajoyosa, Alacant",
+    "eslora_maxima": "25m",
+    "calat_maxim": "3m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 300,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 38.5072,
+      "longitud": -0.2300
+    }
+  },
+  {
+    "nom": "Puerto Deportivo de Alicante",
+    "mail": "info@puertoalicante.com",
+    "telefon": "+34 965 92 81 00",
+    "web": "https://www.puertoalicante.com",
+    "canal_vhf": "9",
+    "adreça": "Muelle de Levante, s/n, 03001 Alicante",
+    "eslora_maxima": "60m",
+    "calat_maxim": "7m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 744,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 38.3452,
+      "longitud": -0.4800
+    }
+  },
+  {
+    "nom": "Puerto Deportivo de Santa Pola",
+    "mail": "info@puertosantapola.com",
+    "telefon": "+34 966 69 00 00",
+    "web": "https://www.puertosantapola.com",
+    "canal_vhf": "9",
+    "adreça": "Calle del Puerto, s/n, 03130 Santa Pola, Alacant",
+    "eslora_maxima": "30m",
+    "calat_maxim": "4m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 500,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 38.1919,
+      "longitud": -0.5600
+    }
+  },
+  {
+    "nom": "Puerto Deportivo de Torrevieja",
+    "mail": "info@puertotorrevieja.com",
+    "telefon": "+34 966 70 00 00",
+    "web": "https://www.puertotorrevieja.com",
+    "canal_vhf": "9",
+    "adreça": "Calle del Puerto, s/n, 03180 Torrevieja, Alacant",
+    "eslora_maxima": "35m",
+    "calat_maxim": "5m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 800,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 37.9787,
+      "longitud": -0.6800
+    }
+  },
+  {
+    "nom": "Puerto Deportivo de San Pedro del Pinatar",
+    "mail": "info@puertosanpedro.com",
+    "telefon": "+34 968 18 00 00",
+    "web": "https://www.puertosanpedro.com",
+    "canal_vhf": "9",
+    "adreça": "Calle del Puerto, s/n, 30740 San Pedro del Pinatar, Murcia",
+    "eslora_maxima": "30m",
+    "calat_maxim": "4m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 525,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 37.8192,
+      "longitud": -0.7573
+    }
+  },
+  {
+    "nom": "Puerto Deportivo de Garrucha",
+    "mail": "info@puertogarrucha.com",
+    "telefon": "+34 950 13 00 00",
+    "web": "https://www.puertogarrucha.com",
+    "canal_vhf": "9",
+    "adreça": "Calle del Puerto, s/n, 04630 Garrucha, Almería",
+    "eslora_maxima": "50m",
+    "calat_maxim": "6m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 300,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 37.1811,
+      "longitud": -1.8222
+    }
+  },
+  {
+    "nom": "Puerto Deportivo de Almerimar",
+    "mail": "info@puertoalmerimar.com",
+    "telefon": "+34 950 60 70 00",
+    "web": "https://www.puertoalmerimar.com",
+    "canal_vhf": "9",
+    "adreça": "Av. del Mar, s/n, 04711 Almerimar, Almería",
+    "eslora_maxima": "60m",
+    "calat_maxim": "5m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 1100,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 36.6983,
+      "longitud": -2.7900
+    }
+  },
+  {
+    "nom": "Puerto Deportivo de Aguadulce",
+    "mail": "info@puertoaguadulce.com",
+    "telefon": "+34 950 34 00 00",
+    "web": "https://www.puertoaguadulce.com",
+    "canal_vhf": "9",
+    "adreça": "Calle Puerto, s/n, 04720 Aguadulce, Almería",
+    "eslora_maxima": "30m",
+    "calat_maxim": "4m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 764,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 36.8061,
+      "longitud": -2.5767
+    }
+  },
+  {
+    "nom": "Puerto Deportivo de Almería",
+    "mail": "info@puertoalmeria.com",
+    "telefon": "+34 950 23 00 00",
+    "web": "https://www.puertoalmeria.com",
+    "canal_vhf": "9",
+    "adreça": "Calle Real, s/n, 04002 Almería",
+    "eslora_maxima": "50m",
+    "calat_maxim": "6m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 277,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 36.8340,
+      "longitud": -2.4637
+    }
   }
 ]
