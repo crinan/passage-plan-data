@@ -1,145 +1,546 @@
 [
   {
-    "nom": "Port Marina Sant Jordi",
-    "mail": "portmarinasantjordi@portcalafat.com",
-    "telefon": "+34 977 48 63 27",
-    "web": "https://portcalafat.com/port-marina-sant-jordi/",
+    "nom": "Port de Portbou",
+    "mail": "portdeportbou@gencat.cat",
+    "telefon": "+34 972 39 07 12",
+    "web": "https://portdeportbou.gencat.cat",
     "canal_vhf": "9",
-    "adreça": "Urbanització Sant Jordi d'Alfama, 43860 L'Ametlla de Mar, Tarragona",
-    "eslora_maxima": "18m",
-    "calat_maxim": "2.8m",
+    "adreça": "Passeig de la Sardana, s/n, 17497 Portbou, Girona",
+    "eslora_maxima": "20m",
+    "calat_maxim": "10m",
     "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
-    "numero_amarres": 149,
-    "pais": "Espanya"
+    "numero_amarres": 297,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 42.4257,
+      "longitud": 3.16663
+    }
   },
   {
-    "nom": "Puerto Deportivo Roda de Barà",
-    "mail": "info@novadarsenabara.es",
-    "telefon": "+34 977 13 81 69",
-    "web": "https://novadarsenabara.es/",
+    "nom": "Port de Llançà",
+    "mail": "port.llanca@gencat.cat",
+    "telefon": "+34 972 121 083",
+    "web": "https://ports.gencat.cat/port-de-llanca/",
     "canal_vhf": "9",
-    "adreça": "Cami Del Pinar, 43883 Roda de Barà, Tarragona",
-    "eslora_maxima": "45m",
-    "calat_maxim": "7m",
-    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi", "Restaurants"],
-    "numero_amarres": 640,
-    "pais": "Espanya"
+    "adreça": "Oficines del port, s/n 17490 Llançà, Girona",
+    "eslora_maxima": "12m",
+    "calat_maxim": "11m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 550,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 42.3667,
+      "longitud": 3.1525
+    }
   },
   {
-    "nom": "Club Nàutic L'Escala",
-    "mail": "info@nauticescala.com",
-    "telefon": "+34 972 77 00 16",
-    "web": "https://nauticescala.com/",
+    "nom": "Port de la Selva",
+    "mail": "turisme@elportdelaselva.cat",
+    "telefon": "+34 972 387 122",
+    "web": "https://www.elportdelaselva.cat",
     "canal_vhf": "9",
-    "adreça": "Port la Clota s/n, 17130 L'Escala, Girona",
+    "adreça": "Carrer Llançà, 3, 17489 El Port de la Selva, Girona",
+    "eslora_maxima": "15m",
+    "calat_maxim": "6m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 300,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 42.3456,
+      "longitud": 3.2041
+    }
+  },
+  {
+    "nom": "Port de Roses",
+    "mail": "info@portroses.com",
+    "telefon": "+34 972 154 412",
+    "web": "https://www.portroses.com",
+    "canal_vhf": "9",
+    "adreça": "Avinguda de Rhode, s/n, 17480 Roses, Girona",
+    "eslora_maxima": "20m",
+    "calat_maxim": "6m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 561,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 42.2611,
+      "longitud": 3.1763
+    }
+  },
+  {
+    "nom": "Marina Empuriabrava",
+    "mail": "info@empuriabrava.eu",
+    "telefon": "+34 972 45 04 19",
+    "web": "https://empuriabrava.eu",
+    "canal_vhf": "9",
+    "adreça": "Edifici Capitania Port Marina, 17487 Empuriabrava, Girona",
+    "eslora_maxima": "25m",
+    "calat_maxim": "3.3m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 5000,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 42.2487,
+      "longitud": 3.1305
+    }
+  },
+  {
+    "nom": "Port de Blanes",
+    "mail": "port.blanes@gencat.cat",
+    "telefon": "+34 972 33 04 69",
+    "web": "https://ports.gencat.cat/port-de-blanes/",
+    "canal_vhf": "9",
+    "adreça": "Passeig de la Marina, s/n, 17300 Blanes, Girona",
+    "eslora_maxima": "20m",
+    "calat_maxim": "5m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 717,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 41.6741,
+      "longitud": 2.7926
+    }
+  },
+  {
+    "nom": "Port de Mataró",
+    "mail": "info.portmataro@gencat.cat",
+    "telefon": "+34 937 55 44 55",
+    "web": "https://portmataro.org/",
+    "canal_vhf": "9",
+    "adreça": "Passeig Callao, s/n, 08301 Mataró, Barcelona",
     "eslora_maxima": "30m",
-    "calat_maxim": "4m",
-    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi", "Restaurants", "Botigues"],
-    "numero_amarres": 957,
-    "pais": "Espanya"
+    "calat_maxim": "6m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 1080,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 41.5381,
+      "longitud": 2.4445
+    }
   },
   {
-    "nom": "Port Fòrum",
+    "nom": "Port de Premià de Mar",
+    "mail": "info@marinapremia.com",
+    "telefon": "+34 937 54 91 19",
+    "web": "https://www.marinapremia.com/",
+    "canal_vhf": "9",
+    "adreça": "Camí Ral, s/n, 08330 Premià de Mar, Barcelona",
+    "eslora_maxima": "30m",
+    "calat_maxim": "5m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 554,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 41.4917,
+      "longitud": 2.3653
+    }
+  },
+  {
+    "nom": "Port de Masnou",
+    "mail": "portmasnou@portmasnou.com",
+    "telefon": "+34 935 40 30 00",
+    "web": "https://portmasnou.com/",
+    "canal_vhf": "9",
+    "adreça": "Port Esportiu del Masnou, s/n, 08320 El Masnou, Barcelona",
+    "eslora_maxima": "22m",
+    "calat_maxim": "4m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 1081,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 41.4791,
+      "longitud": 2.3153
+    }
+  },
+  {
+    "nom": "Port de Badalona",
+    "mail": "port@marinabadalona.cat",
+    "telefon": "+34 933 20 75 00",
+    "web": "https://marinabadalona.cat/",
+    "canal_vhf": "9",
+    "adreça": "Carrer d'Eduard Maristany, 08912 Badalona, Barcelona",
+    "eslora_maxima": "30m",
+    "calat_maxim": "6m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 626,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 41.4489,
+      "longitud": 2.2474
+    }
+  },
+{
+    "nom": "Port Fòrum de Barcelona",
     "mail": "info@portforum.com",
     "telefon": "+34 933 56 27 20",
-    "web": "https://www.portforum.com/",
+    "web": "https://www.portforum.com",
     "canal_vhf": "73",
     "adreça": "Carrer de la Pau, 12, 08930 Sant Adrià de Besòs, Barcelona",
     "eslora_maxima": "80m",
-    "calat_maxim": "8m",
-    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi", "Restaurants", "Botigues", "Lloguer d'amarratges", "Varador"],
-    "numero_amarres": 201,
-    "pais": "Espanya"
+    "calat_maxim": "7m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 170,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 41.4102,
+      "longitud": 2.2296
+    }
   },
   {
-    "nom": "Port Olímpic",
+    "nom": "Port Olímpic de Barcelona",
     "mail": "portolimpic@bsmsa.cat",
     "telefon": "+34 933 56 10 16",
-    "web": "https://portolimpic.barcelona/",
+    "web": "https://portolimpic.barcelona",
     "canal_vhf": "9",
-    "adreça": "Edifici de Capitania, S/N, Moll de Marina, 08005 Barcelona",
+    "adreça": "Edifici Capitania, Moll de Marina, 08005 Barcelona",
     "eslora_maxima": "30m",
-    "calat_maxim": "7m",
-    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi", "Restaurants", "Botigues", "Lloguer d'amarratges"],
-    "numero_amarres": 740,
-    "pais": "Espanya"
+    "calat_maxim": "4.5m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 700,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 41.3904,
+      "longitud": 2.1994
+    }
   },
   {
-    "nom": "Marina de Dénia",
-    "mail": "info@marinadedenia.com",
-    "telefon": "+34 966 42 32 07",
-    "web": "https://www.marinadedenia.com/",
+    "nom": "Port Vell de Barcelona",
+    "mail": "info@portvellbcn.com",
+    "telefon": "+34 932 25 21 00",
+    "web": "https://www.portdebarcelona.cat/en/port-vell",
     "canal_vhf": "9",
-    "adreça": "Dársena de Babor, s/n, 03700 Dénia, Alicante",
-    "eslora_maxima": "60m",
-    "calat_maxim": "7m",
-    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi", "Restaurants", "Botigues", "Lloguer d'amarratges"],
-    "numero_amarres": 404,
-    "pais": "Espanya"
-  },
-  {
-    "nom": "Real Club Náutico de Valencia",
-    "mail": "info@rcnv.es",
-    "telefon": "+34 963 67 40 00",
-    "web": "https://www.rcnv.es/",
-    "canal_vhf": "9",
-    "adreça": "Camino de Canal, 91, 46024 Valencia",
-    "eslora_maxima": "120m",
-    "calat_maxim": "8m",
-    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi", "Restaurants", "Botigues", "Lloguer d'amarratges", "Varador"],
-    "numero_amarres": 1200,
-    "pais": "Espanya"
-  },
-  {
-    "nom": "Marina Port Vell",
-    "mail": "info@marinaportvell.com",
-    "telefon": "+34 932 21 94 00",
-    "web": "https://www.marinaportvell.com/",
-    "canal_vhf": "9",
-    "adreça": "Moll de la Barceloneta, 1, 08039 Barcelona",
+    "adreça": "Moll de Barcelona, s/n, 08039 Barcelona",
     "eslora_maxima": "190m",
-    "calat_maxim": "9m",
-    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi", "Restaurants", "Botigues", "Lloguer d'amarratges", "Varador"],
-    "numero_amarres": 148,
-    "pais": "Espanya"
+    "calat_maxim": "12m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 410,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 41.3735,
+      "longitud": 2.1856
+    }
   },
   {
-    "nom": "Marina Greenwich",
-    "mail": "info@marinagreenwich.com",
-    "telefon": "+34 965 84 23 00",
-    "web": "https://www.marinagreenwich.com/",
+    "nom": "Port Ginesta",
+    "mail": "info@portginesta.com",
+    "telefon": "+34 936 64 36 61",
+    "web": "https://www.portginesta.com",
     "canal_vhf": "9",
-    "adreça": "Puerto Deportivo Luis Campomanes, 03590 Altea, Alicante",
-    "eslora_maxima": "50m",
-    "calat_maxim": "6m",
-    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi", "Restaurants", "Botigues", "Lloguer d'amarratges"],
-    "numero_amarres": 542,
-    "pais": "Espanya"
+    "adreça": "Passeig Marítim, s/n, 08860 Castelldefels, Barcelona",
+    "eslora_maxima": "38m",
+    "calat_maxim": "4.5m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 1442,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 41.2551,
+      "longitud": 1.9269
+    }
   },
   {
-    "nom": "Puerto Banús",
-    "mail": "info@puertojosebanus.es",
-    "telefon": "+34 952 90 92 00",
-    "web": "https://www.puerto-banus.com/",
+    "nom": "Port de Garraf",
+    "mail": "info@clubnauticgarraf.com",
+    "telefon": "+34 936 32 00 13",
+    "web": "https://www.clubnauticgarraf.com",
     "canal_vhf": "9",
-    "adreça": "Muelle de Honor, s/n, 29660 Marbella, Málaga",
-    "eslora_maxima": "50m",
-    "calat_maxim": "6m",
-    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi", "Restaurants", "Botigues", "Lloguer d'amarratges"],
-    "numero_amarres": 915,
-    "pais": "Espanya"
+    "adreça": "Escullera de Ponent, s/n, 08871 Garraf, Barcelona",
+    "eslora_maxima": "20m",
+    "calat_maxim": "5m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 532,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 41.2511,
+      "longitud": 1.8997
+    }
   },
   {
-    "nom": "Club Náutico Moraira",
-    "mail": "info@cnmoraira.com",
-    "telefon": "+34 965 74 44 19",
-    "web": "https://www.cnmoraira.com/",
+    "nom": "Port de Sitges - Aiguadolç",
+    "mail": "info@portdesitges.com",
+    "telefon": "+34 938 94 93 17",
+    "web": "https://www.portdesitges.com",
     "canal_vhf": "9",
-    "adreça": "Calle Puerto, s/n, 03724 Moraira, Alicante",
-    "eslora_maxima": "35m",
+    "adreça": "Av. del Port d'Aiguadolç, s/n, 08870 Sitges, Barcelona",
+    "eslora_maxima": "32m",
+    "calat_maxim": "3.5m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 742,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 41.2345,
+      "longitud": 1.8183
+    }
+  },
+  {
+    "nom": "Port de Vilanova i la Geltrú",
+    "mail": "info@portvilanova.cat",
+    "telefon": "+34 938 15 45 17",
+    "web": "https://www.portvilanova.cat",
+    "canal_vhf": "9",
+    "adreça": "Moll de Ponent, s/n, 08800 Vilanova i la Geltrú, Barcelona",
+    "eslora_maxima": "25m",
+    "calat_maxim": "5m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 1200,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 41.2156,
+      "longitud": 1.7274
+    }
+  },
+  {
+    "nom": "Port de Segur de Calafell",
+    "mail": "info@portsegurcalafell.com",
+    "telefon": "+34 977 16 00 00",
+    "web": "https://www.portsegurcalafell.com",
+    "canal_vhf": "9",
+    "adreça": "Passeig Marítim, s/n, 43882 Segur de Calafell, Tarragona",
+    "eslora_maxima": "20m",
+    "calat_maxim": "3m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 525,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 41.1919,
+      "longitud": 1.6033
+    }
+  },
+  {
+    "nom": "Port de Torredembarra",
+    "mail": "info@port-torredembarra.com",
+    "telefon": "+34 977 64 00 00",
+    "web": "https://www.port-torredembarra.com",
+    "canal_vhf": "9",
+    "adreça": "Passeig de Colom, s/n, 43830 Torredembarra, Tarragona",
+    "eslora_maxima": "30m",
     "calat_maxim": "4m",
-    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi", "Restaurants", "Botigues", "Lloguer d'amarratges"],
-    "numero_amarres": 620,
-    "pais": "Espanya"
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 820,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 41.1433,
+      "longitud": 1.4000
+    }
+  },
+  {
+    "nom": "Port de Tarragona",
+    "mail": "info@porttarragona.cat",
+    "telefon": "+34 977 23 96 00",
+    "web": "https://www.porttarragona.cat",
+    "canal_vhf": "9",
+    "adreça": "Moll de Costa, s/n, 43004 Tarragona",
+    "eslora_maxima": "50m",
+    "calat_maxim": "12m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 400,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 41.1111,
+      "longitud": 1.2444
+    }
+  },
+  {
+    "nom": "Port de Cambrils",
+    "mail": "info@portcambrils.com",
+    "telefon": "+34 977 36 00 00",
+    "web": "https://www.portcambrils.com",
+    "canal_vhf": "9",
+    "adreça": "Passeig Miramar, s/n, 43850 Cambrils, Tarragona",
+    "eslora_maxima": "25m",
+    "calat_maxim": "4m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 533,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 41.0700,
+      "longitud": 1.0600
+    }
+  },
+  {
+    "nom": "Port de l'Ametlla de Mar",
+    "mail": "info@portlametllademar.com",
+    "telefon": "+34 977 45 60 00",
+    "web": "https://www.portlametllademar.com",
+    "canal_vhf": "9",
+    "adreça": "Passeig Marítim, s/n, 43860 L'Ametlla de Mar, Tarragona",
+    "eslora_maxima": "30m",
+    "calat_maxim": "5m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 255,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 40.8800,
+      "longitud": 0.8000
+    }
+  },
+  {
+    "nom": "Port de Sant Carles de la Ràpita",
+    "mail": "info@portsantcarles.com",
+    "telefon": "+34 977 74 00 00",
+    "web": "https://www.portsantcarles.com",
+    "canal_vhf": "9",
+    "adreça": "Passeig Marítim, s/n, 43540 Sant Carles de la Ràpita, Tarragona",
+    "eslora_maxima": "40m",
+    "calat_maxim": "6m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 1832,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 40.6000,
+      "longitud": 0.6000
+    }
+  },
+  {
+    "nom": "Port de Vinaròs",
+    "mail": "info@portvinaros.com",
+    "telefon": "+34 964 45 00 00",
+    "web": "https://www.portvinaros.com",
+    "canal_vhf": "9",
+    "adreça": "Passeig Marítim, s/n, 12500 Vinaròs, Castelló",
+    "eslora_maxima": "20m",
+    "calat_maxim": "3m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 200,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 40.4700,
+      "longitud": 0.4700
+    }
+  },
+  {
+    "nom": "Port de Benicarló",
+    "mail": "info@portbenicarlo.com",
+    "telefon": "+34 964 47 00 00",
+    "web": "https://www.portbenicarlo.com",
+    "canal_vhf": "9",
+    "adreça": "Passeig Marítim, s/n, 12580 Benicarló, Castelló",
+    "eslora_maxima": "25m",
+    "calat_maxim": "4m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 300,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 40.4200,
+      "longitud": 0.4200
+    }
+  },
+  {
+    "nom": "Port de Peñíscola",
+    "mail": "info@portpeniscola.com",
+    "telefon": "+34 964 48 00 00",
+    "web": "https://www.portpeniscola.com",
+    "canal_vhf": "9",
+    "adreça": "Passeig Marítim, s/n, 12598 Peñíscola, Castelló",
+    "eslora_maxima": "30m",
+    "calat_maxim": "5m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 400,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 40.3600,
+      "longitud": 0.4000
+    }
+  },
+  {
+    "nom": "Port de Castelló",
+    "mail": "info@portcastello.com",
+    "telefon": "+34 964 28 00 00",
+    "web": "https://www.portcastello.com",
+    "canal_vhf": "9",
+    "adreça": "Moll de Costa, s/n, 12100 Castelló de la Plana, Castelló",
+    "eslora_maxima": "50m",
+    "calat_maxim": "12m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 500,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 39.9700,
+      "longitud": 0.0200
+    }
+  },
+  {
+    "nom": "Port de Burriana",
+    "mail": "info@portburriana.com",
+    "telefon": "+34 964 58 00 00",
+    "web": "https://www.portburriana.com",
+    "canal_vhf": "9",
+    "adreça": "Passeig Marítim, s/n, 12530 Burriana, Castelló",
+    "eslora_maxima": "35m",
+    "calat_maxim": "6m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 400,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 39.8900,
+      "longitud": -0.0800
+    }
+  },
+  {
+    "nom": "Port de Sagunt",
+    "mail": "info@portsagunt.com",
+    "telefon": "+34 962 67 00 00",
+    "web": "https://www.portsagunt.com",
+    "canal_vhf": "9",
+    "adreça": "Passeig Marítim, s/n, 46520 Sagunt, València",
+    "eslora_maxima": "40m",
+    "calat_maxim": "7m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 500,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 39.6600,
+      "longitud": -0.2300
+    }
+  },
+  {
+    "nom": "Marina Real Juan Carlos I",
+    "mail": "info@marinarealjuancarlosi.com",
+    "telefon": "+34 963 67 00 00",
+    "web": "https://www.marinarealjuancarlosi.com",
+    "canal_vhf": "9",
+    "adreça": "Moll de la Marina, s/n, 46024 València",
+    "eslora_maxima": "120m",
+    "calat_maxim": "10m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 800,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 39.4600,
+      "longitud": -0.3200
+    }
+  },
+  {
+    "nom": "Port de Gandia",
+    "mail": "info@portgandia.com",
+    "telefon": "+34 962 84 00 00",
+    "web": "https://www.portgandia.com",
+    "canal_vhf": "9",
+    "adreça": "Passeig Marítim, s/n, 46730 Gandia, València",
+    "eslora_maxima": "30m",
+    "calat_maxim": "5m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 300,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 38.9700,
+      "longitud": -0.1800
+    }
+  },
+  {
+    "nom": "Port de Dénia",
+    "mail": "info@portdenia.com",
+    "telefon": "+34 966 42 00 00",
+    "web": "https://www.portdenia.com",
+    "canal_vhf": "9",
+    "adreça": "Passeig Marítim, s/n, 03700 Dénia, Alacant",
+    "eslora_maxima": "60m",
+    "calat_maxim": "8m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 600,
+    "pais": "Espanya",
+    "coordenades": {
+      "latitud": 38.8400,
+      "longitud": 0.1200
+    }
   }
-]   
+]
