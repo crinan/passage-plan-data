@@ -1,90 +1,145 @@
 [
   {
-    "id": "PORTBOU",
-    "name": "Port de Portbou",
-    "coordinates": {
-      "latitude": 42.4266,
-      "longitude": 3.1664
-    },
-    "contact": {
-      "phone": "+34 972 390 234",
-      "vhf": "9",
-      "website": "https://ports.gencat.cat/portbou"
-    },
-    "specifications": {
-      "total_berths": 297,
-      "max_length": 15,
-      "max_draft": 3.5
-    }
+    "nom": "Port Marina Sant Jordi",
+    "mail": "portmarinasantjordi@portcalafat.com",
+    "telefon": "+34 977 48 63 27",
+    "web": "https://portcalafat.com/port-marina-sant-jordi/",
+    "canal_vhf": "9",
+    "adreça": "Urbanització Sant Jordi d'Alfama, 43860 L'Ametlla de Mar, Tarragona",
+    "eslora_maxima": "18m",
+    "calat_maxim": "2.8m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi"],
+    "numero_amarres": 149,
+    "pais": "Espanya"
   },
   {
-    "id": "COLERA",
-    "name": "Port de Colera",
-    "coordinates": {
-      "latitude": 42.4039,
-      "longitude": 3.1553
-    },
-    "contact": {
-      "phone": "+34 972 389 237",
-      "vhf": "9"
-    },
-    "specifications": {
-      "total_berths": 134,
-      "max_length": 12,
-      "max_draft": 2.5
-    }
+    "nom": "Puerto Deportivo Roda de Barà",
+    "mail": "info@novadarsenabara.es",
+    "telefon": "+34 977 13 81 69",
+    "web": "https://novadarsenabara.es/",
+    "canal_vhf": "9",
+    "adreça": "Cami Del Pinar, 43883 Roda de Barà, Tarragona",
+    "eslora_maxima": "45m",
+    "calat_maxim": "7m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi", "Restaurants"],
+    "numero_amarres": 640,
+    "pais": "Espanya"
   },
   {
-    "id": "LLANCA",
-    "name": "Port de Llançà",
-    "coordinates": {
-      "latitude": 42.3647,
-      "longitude": 3.1614
-    },
-    "contact": {
-      "phone": "+34 972 380 711",
-      "vhf": "9",
-      "website": "https://ports.gencat.cat/llanca"
-    },
-    "specifications": {
-      "total_berths": 498,
-      "max_length": 25,
-      "max_draft": 4.5
-    }
+    "nom": "Club Nàutic L'Escala",
+    "mail": "info@nauticescala.com",
+    "telefon": "+34 972 77 00 16",
+    "web": "https://nauticescala.com/",
+    "canal_vhf": "9",
+    "adreça": "Port la Clota s/n, 17130 L'Escala, Girona",
+    "eslora_maxima": "30m",
+    "calat_maxim": "4m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi", "Restaurants", "Botigues"],
+    "numero_amarres": 957,
+    "pais": "Espanya"
   },
   {
-    "id": "PORT_SELVA",
-    "name": "Port de la Selva",
-    "coordinates": {
-      "latitude": 42.3364,
-      "longitude": 3.2022
-    },
-    "contact": {
-      "phone": "+34 972 387 000",
-      "vhf": "9"
-    },
-    "specifications": {
-      "total_berths": 641,
-      "max_length": 25,
-      "max_draft": 4.5
-    }
+    "nom": "Port Fòrum",
+    "mail": "info@portforum.com",
+    "telefon": "+34 933 56 27 20",
+    "web": "https://www.portforum.com/",
+    "canal_vhf": "73",
+    "adreça": "Carrer de la Pau, 12, 08930 Sant Adrià de Besòs, Barcelona",
+    "eslora_maxima": "80m",
+    "calat_maxim": "8m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi", "Restaurants", "Botigues", "Lloguer d'amarratges", "Varador"],
+    "numero_amarres": 201,
+    "pais": "Espanya"
   },
   {
-    "id": "ROSES",
-    "name": "Port de Roses",
-    "coordinates": {
-      "latitude": 42.2569,
-      "longitude": 3.1825
-    },
-    "contact": {
-      "phone": "+34 972 154 412",
-      "vhf": "9",
-      "website": "https://ports.gencat.cat/roses"
-    },
-    "specifications": {
-      "total_berths": 485,
-      "max_length": 45,
-      "max_draft": 5
-    }
+    "nom": "Port Olímpic",
+    "mail": "portolimpic@bsmsa.cat",
+    "telefon": "+34 933 56 10 16",
+    "web": "https://portolimpic.barcelona/",
+    "canal_vhf": "9",
+    "adreça": "Edifici de Capitania, S/N, Moll de Marina, 08005 Barcelona",
+    "eslora_maxima": "30m",
+    "calat_maxim": "7m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi", "Restaurants", "Botigues", "Lloguer d'amarratges"],
+    "numero_amarres": 740,
+    "pais": "Espanya"
+  },
+  {
+    "nom": "Marina de Dénia",
+    "mail": "info@marinadedenia.com",
+    "telefon": "+34 966 42 32 07",
+    "web": "https://www.marinadedenia.com/",
+    "canal_vhf": "9",
+    "adreça": "Dársena de Babor, s/n, 03700 Dénia, Alicante",
+    "eslora_maxima": "60m",
+    "calat_maxim": "7m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi", "Restaurants", "Botigues", "Lloguer d'amarratges"],
+    "numero_amarres": 404,
+    "pais": "Espanya"
+  },
+  {
+    "nom": "Real Club Náutico de Valencia",
+    "mail": "info@rcnv.es",
+    "telefon": "+34 963 67 40 00",
+    "web": "https://www.rcnv.es/",
+    "canal_vhf": "9",
+    "adreça": "Camino de Canal, 91, 46024 Valencia",
+    "eslora_maxima": "120m",
+    "calat_maxim": "8m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi", "Restaurants", "Botigues", "Lloguer d'amarratges", "Varador"],
+    "numero_amarres": 1200,
+    "pais": "Espanya"
+  },
+  {
+    "nom": "Marina Port Vell",
+    "mail": "info@marinaportvell.com",
+    "telefon": "+34 932 21 94 00",
+    "web": "https://www.marinaportvell.com/",
+    "canal_vhf": "9",
+    "adreça": "Moll de la Barceloneta, 1, 08039 Barcelona",
+    "eslora_maxima": "190m",
+    "calat_maxim": "9m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi", "Restaurants", "Botigues", "Lloguer d'amarratges", "Varador"],
+    "numero_amarres": 148,
+    "pais": "Espanya"
+  },
+  {
+    "nom": "Marina Greenwich",
+    "mail": "info@marinagreenwich.com",
+    "telefon": "+34 965 84 23 00",
+    "web": "https://www.marinagreenwich.com/",
+    "canal_vhf": "9",
+    "adreça": "Puerto Deportivo Luis Campomanes, 03590 Altea, Alicante",
+    "eslora_maxima": "50m",
+    "calat_maxim": "6m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi", "Restaurants", "Botigues", "Lloguer d'amarratges"],
+    "numero_amarres": 542,
+    "pais": "Espanya"
+  },
+  {
+    "nom": "Puerto Banús",
+    "mail": "info@puertojosebanus.es",
+    "telefon": "+34 952 90 92 00",
+    "web": "https://www.puerto-banus.com/",
+    "canal_vhf": "9",
+    "adreça": "Muelle de Honor, s/n, 29660 Marbella, Málaga",
+    "eslora_maxima": "50m",
+    "calat_maxim": "6m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi", "Restaurants", "Botigues", "Lloguer d'amarratges"],
+    "numero_amarres": 915,
+    "pais": "Espanya"
+  },
+  {
+    "nom": "Club Náutico Moraira",
+    "mail": "info@cnmoraira.com",
+    "telefon": "+34 965 74 44 19",
+    "web": "https://www.cnmoraira.com/",
+    "canal_vhf": "9",
+    "adreça": "Calle Puerto, s/n, 03724 Moraira, Alicante",
+    "eslora_maxima": "35m",
+    "calat_maxim": "4m",
+    "serveis": ["Electricitat", "Aigua", "Carburant", "Seguretat 24h", "Wi-Fi", "Restaurants", "Botigues", "Lloguer d'amarratges"],
+    "numero_amarres": 620,
+    "pais": "Espanya"
   }
-]
+]   
